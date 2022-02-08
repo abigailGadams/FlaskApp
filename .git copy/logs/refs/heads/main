@@ -1,0 +1,3 @@
+0000000000000000000000000000000000000000 1efae521bda92ea1652ac7f0a362974283ddcc15 Abigail Adams <abigailgadams0@gmail.com> 1635475222 -0700	clone: from https://github.com/abigailGadams/python_password_verification.git
+1efae521bda92ea1652ac7f0a362974283ddcc15 a5e5fd273da3df4f509e145c54774551e580be43 abigailGadams <abigailgadams0@gmail.com> 1644309350 -0800	commit: rewriting py program and pushing for future iterations
+a5e5fd273da3df4f509e145c54774551e580be43 0733b7b36cfa4d50a44bb85862012e401b9761ca abigailGadams <abigailgadams0@gmail.com> 1644309683 -0800	commit: updating to check for whitespace in passwords
